@@ -111,7 +111,7 @@ void main_menu()
     }
     else
     {
-        printf("\nError: Choose from the available options. Don't use your extra brain.\n")
+        printf("\nError: Choose from the available options.\n")
     }
 }
 
